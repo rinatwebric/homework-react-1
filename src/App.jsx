@@ -1,10 +1,9 @@
-import ProfileCard from "./components/ProfileCard";
-
+import { ProductList } from './components/ProductList/ProductList.jsx';
 
 function App() {
   return (
     <div>
-      <ProfileCard />
+      <ProductList />
     </div>
   );
 }
